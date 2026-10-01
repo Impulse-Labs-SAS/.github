@@ -1,23 +1,34 @@
-<!-- Archivo: profile/README.md del repositorio .github de la organización. Subí github-org-header-1280x320.png a ese mismo repo, en profile/. -->
 <p align="center">
-  <img src="./github-org-header-1280x320.png" alt="Impulse Labs — Software with real AI" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Impulse-Labs-SAS/.github/main/profile/impulse-labs-horizontal-blanco.svg">
+    <img src="https://raw.githubusercontent.com/Impulse-Labs-SAS/.github/main/profile/impulse-labs-horizontal-negro.svg" alt="Impulse Labs" height="64">
+  </picture>
 </p>
 
-We build our own products, with AI integrated where it actually solves something. Not a feature on a slide.
+<h3 align="center">Software with real AI.</h3>
 
-### => Products
+<p align="center">
+  We build our own products, with AI integrated where it actually solves something.<br>
+  Not a feature on a slide.
+</p>
 
-| | |
-|---|---|
-| **[BrainStack](https://github.com/Impulse-Labs-SAS/brainstack)** | Shared second brain for humans and AI assistants. MCP-native, self-hostable, open source (AGPL-3.0). |
-| **Zuno** | ERP for Argentine SMEs: invoicing, stock, bank reconciliation, POS. |
-| **Brutus** | Personal finance for independent professionals. |
+<p align="center">
+  <a href="https://github.com/Impulse-Labs-SAS/brainstack"><b>BrainStack</b></a> · Zuno · Brutus
+</p>
 
-### => How we work
+<br>
 
-- Construction over decoration: every decision has a rule behind it.
-- Open by default where it helps.
-- Built in Mendoza, Argentina. 15 years of design + 15 years of engineering.
+### `=>` Products
+
+- **[BrainStack](https://github.com/Impulse-Labs-SAS/brainstack)** — Shared second brain for humans and AI assistants. MCP-native, self-hostable, open source (AGPL-3.0).
+- **Zuno** — ERP for Argentine SMEs: invoicing, stock, bank reconciliation, POS.
+- **Brutus** — Personal finance for independent professionals.
+
+### `=>` How we work
+
+- **Construction over decoration.** Every decision has a rule behind it.
+- **Open by default where it helps.** BrainStack is our open source product.
+- **Built in Mendoza, Argentina.** 15 years of design + 15 years of engineering.
 
 ---
 
